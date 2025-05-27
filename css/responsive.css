@@ -1,0 +1,331 @@
+@media  screen and (max-width:1260px) {
+  #header-area{
+    border-radius: 0px;
+      
+    }
+    .child-header{
+      justify-content: space-evenly;
+      
+     }
+     .btn{
+      padding:14px 22px;
+      font-size: 14px;
+      
+   }
+   #banner-conteneir{
+    width: 96%;
+     
+   }
+   .banner-content h2{
+    font-size: 40px;
+    
+  }
+   .banner-content p{
+    font-size: 14px;
+    
+  }
+
+  #about-area{
+    width:96%;
+    
+    
+  }
+  #inspiration-conteneir{
+    width:96%;
+    
+   
+  }
+  .ifra{
+    width:95%;
+    height: 556px;
+    
+   }
+   #resources-section{
+    width: 96%;
+     
+   }
+   .footers-area{
+    
+    justify-content:space-between;
+    
+    
+    
+   }
+}
+
+@media screen and (max-width:1024px) {
+  #header-area{
+  border-radius: 0px;
+    
+  }
+  
+  .child-header{
+   justify-content: space-evenly;
+   
+  }
+  .heading h1{
+  font-size: 28px;
+    
+  }
+
+  
+  .btn{
+    padding:14px 22px;
+    font-size: 14px;
+    
+ }
+ #banner-conteneir{
+  width: 96%;
+   
+ }
+ .banner-content h2{
+  font-size: 30px;
+ }
+ .banner-content p{
+  font-size: 14px;
+  
+}
+#about-area{
+  width:96%;
+  
+  
+}
+.inspiration-child h2{
+  
+  font-size: 30px;
+
+}
+.inspiration-video{
+ 
+  height:500px;
+ 
+  
+}
+.ifra{
+  
+  height:94%;
+  
+ }
+  
+  
+
+}
+
+@media screen and (max-width:768px) {
+  #header-area{
+   border-radius: 0px;
+   
+      
+    }
+  .btn{
+      padding:12px 14px;
+      font-size: 14px;
+      
+   }
+   #banner-conteneir{
+    width: 96%;
+     
+   }
+   .banner-content h2{
+    font-size: 25px;
+   }
+   .banner-content p{
+    font-size: 10px;
+    
+  }
+  #about-area{
+    width:96%;
+    
+    
+  }
+  .about-head h2{
+   
+    font-size:28px;
+    
+  }
+  .about-head p{
+  
+    font-size: 14px;
+    
+  }
+  .about{
+   
+   flex-direction: column-reverse;
+  }
+
+
+  .about-content{
+    flex-basis: 100%;
+  }
+  .about-content h3{
+    font-size: 22px;
+  }
+  
+  .about-content p {
+    font-size: 16px;
+    padding-bottom: 0px;
+  }
+  .inspiration-child h2{
+  
+    font-size: 28px;
+  
+  }
+  .inspiration-child p{
+  
+    font-size: 14px;
+  
+  }
+  .inspiration-video{
+   
+    height:450px;
+   
+    
+  }
+  .ifra{
+    
+    height:94%;
+    
+   }
+   .resources-banner h2{
+    font-size: 30px;
+   
+  }
+   .resources-banner p{
+    font-size: 14px;
+   
+  }
+   .resources-child{
+   flex-wrap: wrap;
+   
+   justify-content: center;
+   gap: 10px;
+   
+  }
+  .resources{
+    flex-basis: 48%;
+    margin-bottom: 20px;
+   
+  }
+  .footers-area{
+    padding: 10px;
+  }
+   .footer-head h4{
+    font-size: 16px;
+    
+  }
+}
+
+  
+
+
+
+@media screen and (max-width:576px) {
+  .child-header{
+    
+   flex-direction: column;
+    
+  }
+  .heading h1{
+    font-size: 28px;
+    margin-bottom: 5px;
+      
+    }
+  .btn{
+    padding:8px 10px;
+    font-size: 10px;
+    
+ }
+ #banner-conteneir{
+  width: 96%;
+   
+ }
+ .banner-content h2{
+  font-size: 18px;
+ }
+ .banner-content p{
+  font-size: 10px;
+  
+}
+#about-area{
+  width:96%;
+  
+  
+}
+.about-head h2{
+   
+  font-size:26px;
+  
+}
+.about-head p{
+
+  font-size: 12px;
+  
+}
+.about{
+ text-align: center;  
+}
+.about-content h3{
+  font-size: 18px;
+}
+
+.about-content p {
+  font-size: 10px;
+  padding-bottom: 0px;
+}
+.inspiration-child h2{
+  
+  font-size: 26px;
+
+}
+.inspiration-child p{
+
+  font-size: 10px;
+
+}
+.inspiration-video{
+ 
+  height:350px;
+ 
+  
+}
+.ifra{
+  
+  height:94%;
+  
+ }
+ .resources-banner h2{
+  font-size: 26px;
+ 
+}
+ .resources-banner p{
+  font-size: 10px;
+ 
+}
+ .resources-child{
+  flex-direction: column;
+  
+  text-align: center;
+  gap: 10px;
+  
+ }
+ .resources{
+   flex-basis: 100%;
+   margin-bottom: 20px;
+  
+ }
+ .resources img{
+  width: 40px;
+
+}
+.footer-head h4{
+  font-size: 14px;
+  margin-bottom: 13px;
+  
+}
+.footers-area{
+  flex-direction: column;
+  
+  
+ }
+
+}
