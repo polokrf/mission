@@ -239,6 +239,9 @@
   width: 96%;
    
  }
+ .banner-img img{
+  width:150px;
+}
  .banner-content h2{
   font-size: 18px;
  }
